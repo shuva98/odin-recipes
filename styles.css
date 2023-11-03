@@ -3,6 +3,10 @@
     color: red;
     font-size: 60px;
     background-color: skyblue;
+    display: inline;
+    position: relative;
+    left: 32%;
+
 }
 
 .list{
